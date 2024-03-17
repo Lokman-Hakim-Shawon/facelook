@@ -8,6 +8,10 @@ import {
 } from "react-router-dom";
 import HomePage from './pages/HomePage';
 import Mainlayout from './Mainlayout/Mainlayout';
+import Videopage from './pages/Videopage';
+import Groups from './pages/Groups';
+import Shop from './pages/Shop';
+import Friends from './pages/Friends';
 
 const router = createBrowserRouter([
   {
@@ -16,7 +20,23 @@ const router = createBrowserRouter([
     children:[
       {
         path:'/',
-        element:<HomePage></HomePage>
+        element:<HomePage/>
+      },
+      {
+        path:'/video',
+        element:<Videopage/>
+      },
+      {
+        path:'/groups',
+        element:<Groups/>
+      },
+      {
+        path:'/shop',
+        element:<Shop/>
+      },
+      {
+        path:'/friends',
+        element:<Friends/>
       }
     ]
   },

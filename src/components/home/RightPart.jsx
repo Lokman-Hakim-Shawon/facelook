@@ -1,8 +1,150 @@
 
 const RightPart = () => {
     return (
-        <div className="">
-            <h1>my name is lokman hakim shawon. i am read in class honours 1st year. there are four member of my family.</h1>
+        <div className="fixed  h-full space-y-3 px-5 hover:overflow-auto ">
+            <div className="flex items-center space-x-2 font-bold">
+            <div className="avatar online ">
+               <div className="w-8 lg:w-10 rounded-full py-0">
+                 <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+               </div>
+            </div>
+                <h1>lokman hakim shawon</h1>
+            </div>
+
+            <div className="flex items-center space-x-2 font-bold">
+            <div className="avatar online ">
+               <div className="w-8 lg:w-10 rounded-full py-0">
+                 <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+               </div>
+            </div>
+                <h1>lokman</h1>
+            </div>
+
+            <div className="flex items-center space-x-2 font-bold">
+            <div className="avatar online ">
+               <div className="w-8 lg:w-10 rounded-full py-0">
+                 <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+               </div>
+            </div>
+                <h1>lokman</h1>
+            </div>
+
+            <div className="flex items-center space-x-2 font-bold">
+            <div className="avatar online ">
+               <div className="w-8 lg:w-10 rounded-full py-0">
+                 <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+               </div>
+            </div>
+                <h1>lokman</h1>
+            </div>
+
+            <div className="flex items-center space-x-2 font-bold">
+            <div className="avatar online ">
+               <div className="w-8 lg:w-10 rounded-full py-0">
+                 <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+               </div>
+            </div>
+                <h1>lokman</h1>
+            </div>
+
+            <div className="flex items-center space-x-2 font-bold">
+            <div className="avatar online ">
+               <div className="w-8 lg:w-10 rounded-full py-0">
+                 <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+               </div>
+            </div>
+                <h1>lokman</h1>
+            </div>
+
+            <div className="flex items-center space-x-2 font-bold">
+            <div className="avatar online ">
+               <div className="w-8 lg:w-10 rounded-full py-0">
+                 <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+               </div>
+            </div>
+                <h1>lokman</h1>
+            </div>
+
+            <div className="flex items-center space-x-2 font-bold">
+            <div className="avatar online ">
+               <div className="w-8 lg:w-10 rounded-full py-0">
+                 <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+               </div>
+            </div>
+                <h1>lokman</h1>
+            </div>
+
+            <div className="flex items-center space-x-2 font-bold">
+            <div className="avatar online ">
+               <div className="w-8 lg:w-10 rounded-full py-0">
+                 <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+               </div>
+            </div>
+                <h1>lokman</h1>
+            </div>
+
+            <div className="flex items-center space-x-2 font-bold">
+            <div className="avatar online ">
+               <div className="w-8 lg:w-10 rounded-full py-0">
+                 <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+               </div>
+            </div>
+                <h1>lokman</h1>
+            </div>
+
+            <div className="flex items-center space-x-2 font-bold">
+            <div className="avatar online ">
+               <div className="w-8 lg:w-10 rounded-full py-0">
+                 <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+               </div>
+            </div>
+                <h1>lokman</h1>
+            </div>
+
+            <div className="flex items-center space-x-2 font-bold">
+            <div className="avatar online ">
+               <div className="w-8 lg:w-10 rounded-full py-0">
+                 <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+               </div>
+            </div>
+                <h1>lokman</h1>
+            </div>
+
+            <div className="flex items-center space-x-2 font-bold">
+            <div className="avatar online ">
+               <div className="w-8 lg:w-10 rounded-full py-0">
+                 <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+               </div>
+            </div>
+                <h1>lokman</h1>
+            </div>
+
+            <div className="flex items-center space-x-2 font-bold">
+            <div className="avatar online ">
+               <div className="w-8 lg:w-10 rounded-full py-0">
+                 <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+               </div>
+            </div>
+                <h1>lokman</h1>
+            </div>
+
+            <div className="flex items-center space-x-2 font-bold">
+            <div className="avatar online ">
+               <div className="w-8 lg:w-10 rounded-full py-0">
+                 <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+               </div>
+            </div>
+                <h1>lokman</h1>
+            </div>
+
+            <div className="flex items-center space-x-2 font-bold">
+            <div className="avatar online ">
+               <div className="w-8 lg:w-10 rounded-full py-0">
+                 <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+               </div>
+            </div>
+                <h1>lokman</h1>
+            </div>
         </div>
     );
 };
