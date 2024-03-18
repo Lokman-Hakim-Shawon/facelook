@@ -6,8 +6,8 @@ const Friends = () => {
                <figure><img className="" src="https://i.ibb.co/k31Ywth/409554770-707353897828205-6358257634409723409-n.jpg" alt="Shoes" /></figure>
                <div className="card-body">
                  <h2 className="card-title">lokman hakim</h2>
-                 <button className="btn bg-blue-600 text-white">Unfriend</button>
-                 <button className="btn bg-gray-200 text-black">Block</button>
+                 <button className="btn bg-blue-600 text-white">Confirm</button>
+                 <button className="btn bg-gray-200 text-black">Delete</button>
                </div>
                </div>
                {/* 2nd */}
@@ -15,8 +15,8 @@ const Friends = () => {
                <figure><img className="" src="https://i.ibb.co/k31Ywth/409554770-707353897828205-6358257634409723409-n.jpg" alt="Shoes" /></figure>
                <div className="card-body">
                  <h2 className="card-title">lokman hakim</h2>
-                 <button className="btn bg-blue-600 text-white">Unfriend</button>
-                 <button className="btn bg-gray-200 text-black">Block</button>
+                 <button className="btn bg-blue-600 text-white">Confirm</button>
+                 <button className="btn bg-gray-200 text-black">Delete</button>
                </div>
                </div>
                {/* 3rd */}
@@ -24,8 +24,8 @@ const Friends = () => {
                <figure><img className="" src="https://i.ibb.co/k31Ywth/409554770-707353897828205-6358257634409723409-n.jpg" alt="Shoes" /></figure>
                <div className="card-body">
                  <h2 className="card-title">lokman hakim</h2>
-                 <button className="btn bg-blue-600 text-white">Unfriend</button>
-                 <button className="btn bg-gray-200 text-black">Block</button>
+                 <button className="btn bg-blue-600 text-white">Confirm</button>
+                 <button className="btn bg-gray-200 text-black">Delete</button>
                </div>
                </div>
                {/* 4th */}
@@ -33,8 +33,8 @@ const Friends = () => {
                <figure><img className="" src="https://i.ibb.co/k31Ywth/409554770-707353897828205-6358257634409723409-n.jpg" alt="Shoes" /></figure>
                <div className="card-body">
                  <h2 className="card-title">lokman hakim</h2>
-                 <button className="btn bg-blue-600 text-white">Unfriend</button>
-                 <button className="btn bg-gray-200 text-black">Block</button>
+                 <button className="btn bg-blue-600 text-white">Confirm</button>
+                 <button className="btn bg-gray-200 text-black">Delete</button>
                </div>
                </div>
                {/* 5th */}
@@ -42,8 +42,8 @@ const Friends = () => {
                <figure><img className="" src="https://i.ibb.co/k31Ywth/409554770-707353897828205-6358257634409723409-n.jpg" alt="Shoes" /></figure>
                <div className="card-body">
                  <h2 className="card-title">lokman hakim</h2>
-                 <button className="btn bg-blue-600 text-white">Unfriend</button>
-                 <button className="btn bg-gray-200 text-black">Block</button>
+                 <button className="btn bg-blue-600 text-white">Confirm</button>
+                 <button className="btn bg-gray-200 text-black">Delete</button>
                </div>
                </div>
                {/* 6th */}
@@ -51,8 +51,8 @@ const Friends = () => {
                <figure><img className="" src="https://i.ibb.co/k31Ywth/409554770-707353897828205-6358257634409723409-n.jpg" alt="Shoes" /></figure>
                <div className="card-body">
                  <h2 className="card-title">lokman hakim</h2>
-                 <button className="btn bg-blue-600 text-white">Unfriend</button>
-                 <button className="btn bg-gray-200 text-black">Block</button>
+                 <button className="btn bg-blue-600 text-white">Confirm</button>
+                 <button className="btn bg-gray-200 text-black">Delete</button>
                </div>
                </div>
         </div>
